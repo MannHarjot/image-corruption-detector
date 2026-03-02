@@ -53,7 +53,8 @@ wandb/
 dist/
 build/
 
-# Testing
+# Testing (kept local only)
+tests/
 .pytest_cache/
 .coverage
 htmlcov/
