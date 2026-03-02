@@ -40,12 +40,13 @@ outputs/
 # Wandb
 wandb/
 
-# IDE
+# IDE / tooling
 .vscode/
 .idea/
 *.swp
 *.swo
 .DS_Store
+.claude/
 
 # Distribution
 *.egg-info/
