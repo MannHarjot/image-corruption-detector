@@ -6,7 +6,7 @@ A PyTorch project that detects and classifies image corruption — things like b
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.2-orange?logo=pytorch)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
-**Live demo:** [HF Spaces](https://huggingface.co/spaces/MannHarjot/image-corruption-detector)
+**Live demo:** [HF Spaces](https://huggingface.co/spaces/mannh12/image-corruption-detector)
 
 ---
 
