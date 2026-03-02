@@ -23,10 +23,10 @@ env/
 venv/
 ENV/
 
-# ML / Data
-data/
-checkpoints/
-outputs/
+# ML / Data (root-level generated directories only)
+/data/
+/checkpoints/
+/outputs/
 *.pt
 *.pth
 *.ckpt
