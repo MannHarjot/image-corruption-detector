@@ -1,14 +1,25 @@
+# Core ML
 torch==2.2.0
 torchvision==0.17.0
 numpy==1.26.4
-opencv-python==4.9.0.80
+# opencv-python-headless for server/HF Spaces (no GUI), opencv-python for local dev
+opencv-python-headless==4.9.0.80
 Pillow==10.2.0
 scikit-learn==1.4.1.post1
+
+# Visualization / data
 matplotlib==3.8.3
 seaborn==0.13.2
 pandas==2.2.1
+
+# Config & utilities
 PyYAML==6.0.1
 tqdm==4.66.2
-pytest==8.1.1
+
+# Demo
+gradio==4.44.0
+huggingface_hub==0.24.5
+
+# Dev / notebook (not needed on HF Spaces but harmless)
 jupyter==1.0.0
 ipykernel==6.29.3
